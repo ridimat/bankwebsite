@@ -1,0 +1,79 @@
+/*!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>*/
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+      height:35px;
+      font-size:20px;
+    text-align: center;
+    padding: 8px;
+  }
+  th{
+      text-align:center;
+     background-color:silver;
+  }
+  tr:first-child{
+    border-radius:10px 0 0 10px;
+  }
+  tr:nth-child(even){background-color: #f2f2f2}
+  button {
+    background-color: crimson; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  #accept{
+      background-color: #008CBA;
+  }
+  #reject{
+      background-color: rgb(212, 204, 204);
+  }
+  /*</style>
+  </head>
+  <body>
+  
+  
+  <div style="overflow-x:auto;">
+    <table>
+      <tr>
+         <TH>UID</TH>
+        <th> Name</th>
+        
+        <th>Event</th>
+        <th>Date</th>
+        <th>Time</th>
+        <th>ACCEPT</th>
+        <th>REJECT</th>
+       
+      </tr>
+      <tr>
+        <td>Jill</td>
+        <td>Smith</td>
+        <td>50</td>
+        <td>50</td>
+        <td>50</td>
+        <td><button type="submit" id="accept">ACCEPT</button></td>
+        <td><button type="submit" id="reject">REJECT</button></td>
+       
+      </tr>
+      
+    </table>
+  </div>
+  
+  </body>
+  </html>*/
+  
